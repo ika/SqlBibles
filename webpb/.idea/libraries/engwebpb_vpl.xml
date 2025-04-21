@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="engwebpb_vpl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/engwebpb_vpl.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
